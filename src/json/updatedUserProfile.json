@@ -1,0 +1,31 @@
+{   
+    "error": false,
+    "message": [],
+    "id": 12,
+    "roleList": [
+        {   
+            "id":1,
+            "type": "All roles"
+        },
+        {   
+            "id":2,
+            "type": "Analyst"
+        },
+        {   
+            "id":3,
+            "type": "Corporate PU Manager"
+        },
+        {   
+            "id":4,
+            "type": "Finance"
+        }
+    ],
+    "details": {
+       "name": "Jacob user",
+       "email": "email@mail.com",
+       "businessPhone": "+2212",
+       "businessMobile": "+2212",
+       "networkName": "+2212",
+       "employeeId": "2212"
+    }
+}

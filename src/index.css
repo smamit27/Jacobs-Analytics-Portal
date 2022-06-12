@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Jacobs Chronos';
+  src: url('./assets/fonts/JacobsChronos_Rg.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Jacobs Chronos';
+  src: url('./assets/fonts/JacobsChronos_Bd.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Jacobs Chronos';
+  src: url('./assets/fonts/JacobsChronos_Lt.ttf') format('truetype');
+  font-weight: lighter;
+}
+
+
+
+
+body {
+  margin: 0;
+  font-family: "Jacobs Chronos", "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+button{
+  font-family: "Jacobs Chronos", "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif  !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

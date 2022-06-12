@@ -1,0 +1,159 @@
+{
+    "categories": {
+        "heading": "Filters",
+        "list": [
+            {
+                "type": "Area",
+                "subcategories": []
+            },
+            {
+                "type": "Categories",
+                "lock": false,
+                "subcategories": [
+                    {
+                        "subtype": "New & Updated",
+                        "selected": true,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Favourites",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Client & Project Analytics",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Financial Analytics",
+                        "selected": false,
+                        "folder": true
+                    },
+                    {
+                        "subtype": "HR Global",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Jacobs by the Numbers",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "My Travel Dashboard",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "My Jacobs",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Reference Data Dictionary",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Revenue Compliance",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Working Capital",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Workshare",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Global Travel Dashboard",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Locations",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Supply Chain",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Traveller",
+                        "selected": false,
+                        "folder": false
+                    },
+                    {
+                        "subtype": "Travel Requests",
+                        "selected": false,
+                        "folder": false
+                    }
+                ]
+            }
+        ]
+    },
+    "sorting": {
+        "heading": "View & Sorting",
+        "list": [
+            {
+                "type": "Sorting",
+                "lock": false,
+                "subcategories": [
+                    {
+                        "subtype": "A-Z",
+                        "value": "AZ",
+                        "selected": false
+                    },
+                    {
+                        "subtype": "Z-A",
+                        "value": "ZA",
+                        "selected": false
+                    },
+                    {
+                        "subtype": "Most Recent to Oldest",
+                        "value": "OLD",
+                        "selected": false
+                    },
+                    {
+                        "subtype": "Oldest to Most Recent",
+                        "value": "NEW",
+                        "selected": false
+                    }
+                ]
+            }
+        ],
+        "view":[
+            {
+                "type": "View",
+                "lock": false,
+                "subcategories": [
+                    {
+                        "subtype": "All",
+                        "value": "ALL",
+                        "selected": false
+                    },
+                    {
+                        "subtype": "Accessible",
+                        "value": "AVAILABLE",
+                        "selected": false
+                    },
+                    {
+                        "subtype": "Access Required",
+                        "value": "LOCKED",
+                        "selected": false
+                    }
+                ]
+            }
+
+        ]
+    },
+    "applyfilter": "Apply Selection",
+    "clearfilter": "Clear Selection"
+}

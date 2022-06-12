@@ -1,0 +1,154 @@
+{
+    "heading": "Help using your dashboard",
+    "quickguide": {
+        "heading": "Quick guide"
+    },
+    "faq": {
+        "heading": "FAQs",
+        "list": [
+            {
+                "question": "Question Category 01",
+                "subquestionlist": [
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 1 - 1",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 1 - 2",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 1 - 3",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 1 - 4",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 1 - 5",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    }
+                ]
+            },
+            {
+                "question": "Question Category 02",
+                "subquestionlist": [
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 2 - 1",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 2 - 2",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 2 - 3",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 2 - 4",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 2 - 5",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    }
+                ]
+            },
+            {
+                "question": "Question Category 03",
+                "subquestionlist": [
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 3 - 1",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 3 - 2",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 3 - 3",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 3 - 4",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 3 - 5",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    }
+                ]
+            },
+            {
+                "question": "Question Category 04",
+                "subquestionlist": [
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 4 - 1",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 4 - 2",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 4 - 3",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 4 - 4",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 4 - 5",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    }
+                ]
+            },
+            {
+                "question": "Question Category 05",
+                "subquestionlist": [
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 5 - 1",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 5 - 2",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 5 - 3",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 5 - 4",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    },
+                    {
+                        "question": "This is a question and the length of the sentence could run over multiple lines 5 - 5",
+                        "answer": "This is the answer to the question which can be a lengthy description, running down the page, and include images and digrams"
+                    }
+                ]
+            }
+        ]
+    },
+    "otherlinks": {
+        "heading": "Useful links and contact information",
+        "list": [
+            {
+                "linktext": "JacobsAnalytics Access Guide",
+                "linkurl": ""
+            },
+            {
+                "linktext": "JacobsAnalytics Report Wiki",
+                "linkurl": ""
+            }
+        ]
+    },
+    "allquestion": {
+        "heading": "Still not found the answer?",
+        "value": "All questions",
+        "touch": "Get in touch"
+    }
+}

@@ -1,0 +1,60 @@
+{
+   "footer": [
+     {
+        "head": "My Jacobs Analytics",
+        "list": [{
+                "label": "Recent Items"
+            },{
+                "label": "Favourites"
+            },{
+                "label": "My folders"
+            },{
+                "label": "Recommended reports"
+            }
+        ]
+     },
+     {
+        "head": "Tools",
+        "list": [{
+                "label": "Help"
+            },{
+                "label": "Upload a report"
+            },{
+                "label": "List item"
+            },{
+                "label": "List item"
+            }
+        ]
+     },
+     {
+        "head": "Other links",
+        "list": [{
+                "label": "Help"
+            },{
+                "label": "Upload a report"
+            },{
+                "label": "List item"
+            },{
+                "label": "List item"
+            }
+        ]
+     },
+     {
+        "head": "More links",
+        "list": [{
+                "label": "List item"
+            },{
+                "label": "List item a report"
+            },{
+                "label": "List item"
+            },{
+                "label": "List item"
+            }
+        ]
+     }
+   ],
+   "help": {
+       "head": "We’re here to help",
+       "content": "Learn about the features of My Analytics and how to manage your reports"
+   }
+}

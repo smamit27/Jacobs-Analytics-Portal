@@ -1,0 +1,110 @@
+{   
+    "error": false, 
+    "message": [],
+    "filterList": [
+        {   
+            "id": 1,
+            "type": "Area",
+            "list": []
+        },
+        {   
+            "id": 2,
+            "type": "Categories",
+            "list": [
+                {
+                    "id": 3,
+                    "subtype": "All Categories"
+                },
+                {   
+                    "id": 4,
+                    "subtype": "New & Updated"
+                },
+                {   
+                    "id": 5,
+                    "subtype": "Favourites"
+                },
+                {   
+                    "id": 6,
+                    "subtype": "Client & Project Analytics"
+                },
+                {   
+                    "id": 7,
+                    "subtype": "Financial Analytics"
+                },
+                {   
+                    "id": 8,
+                    "subtype": "HR Global"
+                },
+                {   
+                    "id": 9,
+                    "subtype": "Jacobs by the Numbers"
+                },
+                {   
+                    "id": 10,
+                    "subtype": "My Travel Dashboard"
+                },
+                {   
+                    "id": 11,
+                    "subtype": "My Jacobs"
+                },
+                {   "id": 12,
+                    "subtype": "Reference Data Dictionary"
+                },
+                {   
+                    "id": 13,
+                    "subtype": "Revenue Compliance"
+                },
+                {   
+                    "id": 14,
+                    "subtype": "Working Capital"
+                },
+                {   
+                    "id": 15,
+                    "subtype": "Workshare"
+                },
+                {   
+                    "id": 16,
+                    "subtype": "Global Travel Dashboard"
+                },
+                {   
+                    "id": 17,
+                    "subtype": "Locations"
+                },
+                {   
+                    "id": 18,
+                    "subtype": "Supply Chain"
+                },
+                {   
+                    "id": 19,
+                    "subtype": "Traveller"
+                },
+                {   
+                    "id": 20,
+                    "subtype": "Travel Requests"
+                }
+            ]
+        },
+        {   
+            "id": 21,
+            "type": "Viewing order",
+            "list": [
+                {   
+                    "id": 22,
+                    "subtype": "A-Z"
+                },
+                {   
+                    "id": 23,
+                    "subtype": "Z-A"
+                },
+                {   
+                    "id": 24,
+                    "subtype": "Newest-Oldest"
+                },
+                {   
+                    "id": 25,
+                    "subtype": "Oldest-Newest"
+                }
+            ]
+        }
+    ]
+}

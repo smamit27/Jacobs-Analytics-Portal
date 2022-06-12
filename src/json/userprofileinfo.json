@@ -1,0 +1,63 @@
+{
+    "heading": "User Profile & Role",
+    "allroles": {
+        "heading": "My Roles",
+        "rolelist": [
+            {
+                "type": "All roles",
+                "selected": true,
+                "roleTypes": [
+                    {
+                        "type": "Analyst",
+                        "selected": true
+                    },
+                    {
+                        "type": "Corporate PU Manager",
+                        "selected": false
+                    },
+                    {
+                        "type": "Finance",
+                        "selected": false
+                    }
+                ]
+            }
+        ]
+    },
+    "info": {
+        "heading": "My Profile",
+        "list": [
+            {
+                "keyType": "Name",
+                "KeyValue": "User Name"
+            },
+            {
+                "keyType": "Email",
+                "KeyValue": "Value"
+            },
+            {
+                "keyType": "Business Phone",
+                "KeyValue": "Value"
+            },
+            {
+                "keyType": "Business Mobile",
+                "KeyValue": "Value"
+            },
+            {
+                "keyType": "Network Name",
+                "KeyValue": "Value"
+            },
+            {
+                "keyType": "Employee ID",
+                "KeyValue": "Value"
+            },
+            {
+                "keyType": "Manager Name",
+                "KeyValue": "Value"
+            },
+            {
+                "keyType": "Location",
+                "KeyValue": "Value"
+            }
+        ]
+    }
+}

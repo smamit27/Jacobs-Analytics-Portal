@@ -1,0 +1,94 @@
+{
+    "heading": "Settings",
+    "list": [
+        {
+            "heading": "My KPIs",
+            "kpilist": [
+                {
+                    "type": "Billability",
+                    "selected": true,
+                    "folder": false
+                },
+                {
+                    "type": "Client & Project Analytics",
+                    "selected": true,
+                    "folder": false
+                },
+                {
+                    "type": "Financial Analytics",
+                    "selected": true,
+                    "folder": false
+                },
+                {
+                    "type": "HR Global",
+                    "selected": true,
+                    "folder": false
+                },
+                {
+                    "type": "Jacobs by the Numbers",
+                    "selected": false,
+                    "folder": false
+                }
+            ]
+        },
+        {
+            "heading": "My Reports",
+            "kpilist": [
+                {
+                    "type": "Recently View",
+                    "selected": false,
+                    "folder": false
+                },
+                {
+                    "type": "Recently Updated",
+                    "selected": true,
+                    "folder": false
+                },
+                {
+                    "type": "Favourites",
+                    "selected": false,
+                    "folder": false
+                },
+                {
+                    "type": "My Custom Folder 01",
+                    "selected": true,
+                    "folder": true
+                },
+                {
+                    "type": "My Custom Folder 02",
+                    "selected": false,
+                    "folder": true
+                }
+            ]
+        },
+        {
+            "kpilist": [
+                {
+                    "type": "Billability",
+                    "selected": false,
+                    "folder": false
+                },
+                {
+                    "type": "Client & Project Analytics",
+                    "selected": true,
+                    "folder": false
+                },
+                {
+                    "type": "Financial Analytics",
+                    "selected": false,
+                    "folder": false
+                },
+                {
+                    "type": "HR Global",
+                    "selected": true,
+                    "folder": false
+                },
+                {
+                    "type": "Jacobs by the Numbers",
+                    "selected": false,
+                    "folder": false
+                }
+            ]
+        }
+    ]
+}

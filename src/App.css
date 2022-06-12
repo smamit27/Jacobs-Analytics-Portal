@@ -1,0 +1,190 @@
+/* Fonts */
+/* 
+
+100 => Thin
+300 => Light
+400 => Regular
+500 => Medium
+600 => semibold 
+
+*/
+
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+
+@font-face {
+  font-family: 'Jacobs Chronos';
+  src: url('./assets/fonts/JacobsChronos_Rg.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Jacobs Chronos';
+  src: url('./assets/fonts/JacobsChronos_Bd.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Jacobs Chronos';
+  src: url('./assets/fonts/JacobsChronos_Lt.ttf') format('truetype');
+  font-weight: lighter;
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+li {
+  list-style: none;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Jacobs Chronos', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.015rem;
+  height: auto;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button{
+  font-family: "Jacobs Chronos", "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif  !important;
+}
+
+#root {
+  height: 100%;
+}
+.ovflw--hide {
+  overflow: hidden;
+}

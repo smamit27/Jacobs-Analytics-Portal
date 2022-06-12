@@ -1,0 +1,21 @@
+{   
+    "id": 3,
+    "error": false,
+    "message": [],
+    "reportName": "AR DSO Dashboard",
+    "date": "Updated 18 Mar 2021",
+    "description": "Description of content",
+    "imageUrl": "report-url",
+    "isFav": true,
+    
+    "details": [
+        {
+            "key": "Key Users",
+            "label": "Actuals/Budget"
+        },
+        {
+            "key": "Source of Data",
+            "label": "Oracle Financials"
+        }
+    ]
+}
